@@ -54,11 +54,13 @@ int main() {
 }
 
 /*
-Thaxa tmi harule malai yesko output ayena bhanxa
+manjis: "Thaxa tmi harule malai yesko output ayena bhanxa
 so:
 
 Enter 2nd time detail
 1 0 0
 The sum of two times are
-[3:0:0]
+[3:0:0]"
+
+hero: "maro ma ta ayo hai"
 */
